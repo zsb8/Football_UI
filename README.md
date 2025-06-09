@@ -1,4 +1,8 @@
-# Chatbot_UI
-The front end of ChatBot project
+![image](https://github.com/user-attachments/assets/73a4280a-6af0-453b-a54d-1e0699fe6976)
 
-![image](https://github.com/zsb8/Chatbot_UI/assets/75282285/5d3c00f0-c6e6-4074-9df5-92ff1fbf0be5)
+
+![image](https://github.com/user-attachments/assets/4b8f3bbc-e544-4011-afcd-d9849d458514)
+
+
+
+![image](https://github.com/user-attachments/assets/1ddfc8fb-5c5c-491c-8a5c-30a9e73e3750)
