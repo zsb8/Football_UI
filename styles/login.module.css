@@ -1,0 +1,40 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+  height: 5rem;
+  padding: 2rem;
+  margin-top: 2.5rem;
+}
+
+.bottomLink {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+@media only screen and (max-width: 768px) {
+  .bottomLink {
+    justify-content: left;
+    align-items: left;
+  }
+}
+
+.inputBox {
+  width: 17rem;
+}
+
+.space {
+  width: 5rem;
+}
+
+.error {
+  color: red;
+}
